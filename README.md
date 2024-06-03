@@ -1,6 +1,3 @@
-Sure, here is an improved version of your README for the Todo App with enhanced formatting and clarity:
-
----
 
 # Todo App
 
@@ -25,11 +22,3 @@ This project is a Todo App developed using JavaScript, React, and TypeScript, in
 ## Project Showcase
 
 You can view the Todo App [here](https://graf6612.github.io/react_todo-app-with-api/).
-
----
-
-## Link Repo 
-
-You can view the Todo App [here] (https://github.com/Graf6612/todo-apps)
-
-This version provides a clear, concise, and well-organized description of your project. It uses markdown features such as headings, bullet points, and links to enhance readability and structure.
