@@ -33,18 +33,18 @@ Any modern web browser
 
 ## Running the Project Locally:
 1.Clone the repository:
-'git clone (https://github.com/Graf6612/todo-apps.git)'
+`git clone (https://github.com/Graf6612/todo-apps.git)`
 
 2.Navigate to the project directory.
 
 3.Next, you need to update the repository:
-'git pull origin master'
+`git pull origin master`
 
 4.Make sure you have Node.js version 14 or newer installed. Install dependencies if there are any:
-'npm install'
+`npm install`
 
 5.Start the project:
-'npm start'
+`npm start`
 
 6.After starting the server, open a web browser and go to http://localhost:8080 (or whichever address your server provides).
 
